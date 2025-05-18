@@ -1,4 +1,4 @@
-# Project: Fake News Detection
+# Project: Fake News Detection (Data Science Project)
 
 ## Overview
 
